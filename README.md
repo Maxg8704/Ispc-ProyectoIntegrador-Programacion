@@ -73,7 +73,7 @@ El esquema general del sistema a desarrollar se muestra en la siguiente imagen:
 El esquema general del sistema a desarrollar se muestra en la siguiente
 imagen: 
 
-<img src="https://acceso.ispc.edu.ar/pluginfile.php/123604/mod_pdfannotator/intro/esquemaPI%20%281%29.jpg">
+<img src="https://drive.google.com/file/d/1VAuIg4qN-8vadi7bPvzm8gXsRE30ETe_/view">
 
 1. Se dispondrá de un sensor que mida una variable de interés.
 2. Este sensor será conectado a un microcontrolador (Arduino o
