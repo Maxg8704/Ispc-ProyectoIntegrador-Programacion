@@ -73,7 +73,7 @@ El esquema general del sistema a desarrollar se muestra en la siguiente imagen:
 El esquema general del sistema a desarrollar se muestra en la siguiente
 imagen: 
 
-<img src="https://drive.google.com/file/d/1VAuIg4qN-8vadi7bPvzm8gXsRE30ETe_/view">
+<img src="https://blog.arduinoomega.com/wp-content/uploads/2022/07/image-768x519.png">
 
 1. Se dispondrá de un sensor que mida una variable de interés.
 2. Este sensor será conectado a un microcontrolador (Arduino o
@@ -125,6 +125,8 @@ Para esto deberá leer el puerto serie con python y luego ingresar datos
 
 Nota: Aún no tenemos corriendo el dispositivo, por lo que puede utilizar
 la función input() para generar información que ingrese al programa.
+
+<hr>
 
 ## Entrega 4: Fecha de entrega (29/10/23)
 
